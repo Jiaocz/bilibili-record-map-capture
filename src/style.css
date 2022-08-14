@@ -1,0 +1,15 @@
+@import url("assets/font/stylesheet.css");
+
+* {
+    font-family: "zihun100", Arial, Helvetica, sans-serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+}
+
+* {
+    background: transparent;
+}
