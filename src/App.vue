@@ -51,14 +51,10 @@ const handleShown = () => {
 </template>
 
 <style scoped>
-:root {
-  font-size: 14px;
-}
-
 .container {
   padding: 0;
   margin: 0;
-  height: 20px;
+  height: 1em;
   overflow: hidden;
 }
 
